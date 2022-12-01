@@ -1,0 +1,15 @@
+body{
+    background: #CCCCCC;
+}
+h1{
+    text-align: Center;
+}
+p{
+    text-align: center;
+}
+em strong{
+    color: #FF0000;
+}
+#missao{
+    font-size: 20px;
+}
